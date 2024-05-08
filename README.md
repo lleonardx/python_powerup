@@ -1,4 +1,4 @@
-# Automações com pyautogui
+# Automações com PyAutoGui
 
 - Projeto de Automação
 > Realizar login em um site, e utilizar uma base de dados em csv, para alimentar o sistema, de forma automatizada.
