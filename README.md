@@ -14,11 +14,8 @@
 
 ## Bibliotecas 
 <ol>
-
     <li><code> pyautogui </code></li>
     <li><code> time </code></li>
-    <li><code> </code></li>
-
 </ol>
 
 ## Documentação
