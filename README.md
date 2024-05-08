@@ -3,11 +3,11 @@
 - Projeto de Automação
 > Realizar login em um site, e utilizar uma base de dados em csv, para alimentar o sistema, de forma automatizada.
 
-> Abrir navegador
-> Acessar site e realizar cadastro
-> Inserir informações do produto
-> Enviar as informações para o sistema
-> Repetir o cadastro até finalizar todos os produtos
+- Abrir navegador
+- Acessar site e realizar cadastro
+- Inserir informações do produto
+- Enviar as informações para o sistema
+- Repetir o cadastro até finalizar todos os produtos
 
 ## Tecnologia Utilizada
 - Python
